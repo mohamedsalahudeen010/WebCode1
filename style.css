@@ -1,0 +1,73 @@
+body {
+  background-color: darkseagreen;
+  display: flex;
+  align-items: center;
+}
+.main1 {
+  margin-left: 10%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.main{
+  text-align: left;
+}
+
+.form-control {
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 28%;
+}
+
+.card-deck {
+  width: 350px;
+  height: 500px;
+  background-color: rgb(138, 88, 185);
+  margin: 20px;
+  padding: 15px;
+  
+}
+
+.card {
+  background-color: rgb(216, 197, 89);
+  width: 400px;
+  height: 400px;
+  margin: 30px;
+  text-align: left;
+}
+.loginButton{
+margin-left: 1100px;
+background-color:rgb(216, 197, 89);
+text-align: center;
+width: 100px;
+height:40px;
+font-size: large;
+border: 4px solid rgb(138, 88, 185);
+}
+
+
+.logo{
+  width: 500px;
+  height: 100px;
+  margin-top: -50px;
+  text-align: center;
+}
+
+.value{
+  background-color: lightgrey;
+  margin: 30px;
+  margin-right: 100px;
+  border: 5px solid grey;
+  margin-left: 87px;
+  padding: 10px;
+  width: auto;
+  height: auto;
+  padding-left: auto;
+  text-align:justify;
+  
+
+  
+  
+}
